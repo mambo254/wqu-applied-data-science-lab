@@ -7,13 +7,18 @@ This repository contains a collection of end-to-end data science lab reports com
 1. **Housing in Mexico**  
 
    Objective: Determine if real estate prices are influenced more by property size or location.
+   
    Techniques: Data visualization, correlation analysis.
+   
    Key Tools: Python, Matplotlib, Pandas.
 
 3. **Housing in Buenos Aires**  
    Explores housing data from Buenos Aires to uncover patterns and trends in the local real estate market.
+   
    Objective: Predict apartment prices using a linear regression model.
+   
    Techniques: Data cleaning, feature engineering, model optimization.
+   
    Key Tools: Scikit-learn, Pandas.
 
 5. **Air Quality in Nairobi**  
@@ -22,27 +27,37 @@ This repository contains a collection of end-to-end data science lab reports com
    Techniques: MongoDB data extraction, hyperparameter tuning.
    Key Tools: Pymongo, Statsmodels.
 
-7. **Earthquake Damage in Nepal**  
+7 **Earthquake Damage in Nepal**  
    A predictive modeling project to estimate the extent of building damage from earthquakes in Nepal.
+   
    Objective: Predict earthquake damage to buildings.
+   
    Techniques: Logistic regression, decision trees, bias analysis.
+   
    Key Tools: SQLite, Scikit-learn.
+   
 9. **Bankruptcy in Poland**  
    Classification models are used to predict company bankruptcy based on financial indicators in Poland.
+   
    Objective: Predict company bankruptcies using random forest and gradient boosting.
+   
    Techniques: Handling imbalanced data, resampling, metric analysis.
+   
    Key Tools: XGBoost, Linux Command Line.
 
 11. **Consumer Finances in the USA**
     This project analyzes U.S. consumer financial behavior using survey data, focusing on income, debt, and asset ownership.
+    
     Objective: Cluster US consumers into groups using k-means.
+    
     Techniques: PCA for visualization, interactive dashboards.
+    
     Key Tools: Plotly Dash, Scikit-learn
     
 13. **Data Science Admissions at WQU**
-     
-   An internal dataset analysis to understand trends in student applications and success factors in the WQU admissions process
-   Objective: Determine if sending emails increases program enrollment using chi-square tests.
+     An internal dataset analysis to understand trends in student applications and success factors in the WQU admissions process
+
+    Objective: Determine if sending emails increases program enrollment using chi-square tests.
    Techniques: ETL pipelines, custom Python classes.
    Key Tools: Python, Flask.
 
