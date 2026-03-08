@@ -40,7 +40,7 @@ This repository contains a collection of end-to-end data science lab reports com
    
    Key Tools: SQLite, Scikit-learn.
    
-   5.**Bankruptcy in Poland**
+5. **Bankruptcy in Poland**
      
    Classification models are used to predict company bankruptcy based on financial indicators in Poland.
    
