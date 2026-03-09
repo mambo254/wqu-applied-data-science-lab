@@ -12,7 +12,8 @@ This repository contains a collection of end-to-end data science lab reports com
    
    Key Tools: Python, Matplotlib, Pandas.
 
-2. **Housing in Buenos Aires**  
+2. **Housing in Buenos Aires**
+   
    Explores housing data from Buenos Aires to uncover patterns and trends in the local real estate market.
    
    Objective: Predict apartment prices using a linear regression model.
@@ -51,6 +52,7 @@ This repository contains a collection of end-to-end data science lab reports com
    Key Tools: XGBoost, Linux Command Line.
 
 6. **Consumer Finances in the USA**
+   
     This project analyzes U.S. consumer financial behavior using survey data, focusing on income, debt, and asset ownership.
     
     Objective: Cluster US consumers into groups using k-means.
@@ -60,6 +62,7 @@ This repository contains a collection of end-to-end data science lab reports com
     Key Tools: Plotly Dash, Scikit-learn
     
 7. **Data Science Admissions at WQU**
+   
      An internal dataset analysis to understand trends in student applications and success factors in the WQU admissions process
 
     Objective: Determine if sending emails increases program enrollment using chi-square tests.
